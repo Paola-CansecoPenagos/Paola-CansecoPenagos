@@ -2,6 +2,18 @@
 ### Lenguajes más usados
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Paola-CansecoPenagos&layout=compact&theme=radical)
 
+# My GitHub Profile
+
+## My Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Paola-CansecoPenagos&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paola-CansecoPenagos&layout=compact)
+
+## WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!--
