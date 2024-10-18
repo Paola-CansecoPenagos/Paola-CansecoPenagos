@@ -11,12 +11,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paola-CansecoPenagos&layout=compact)
 
 
-## My GitHub Streak Stats
+<!--My GitHub Streak Stats
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Paola-CansecoPenagos&theme=highcontrast&hide_border=true&date_format=[Y.]n.j)
 
 ## WakaTime Stats
-
+-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
