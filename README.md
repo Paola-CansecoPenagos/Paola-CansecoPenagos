@@ -10,6 +10,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paola-CansecoPenagos&layout=compact)
 
+  <img src="https://streak-stats.demolab.com?user=Paola-CansecoPenagos&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
