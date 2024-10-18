@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### Lenguajes más usados
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Paola-CansecoPenagos&layout=compact&theme=radical)
 ### Estadísticas de codificación (Wakatime)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tu-usuario)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Paola-CansecoPenagos)
 
 <!--
 **Paola-CansecoPenagos/Paola-CansecoPenagos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
