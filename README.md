@@ -1,6 +1,4 @@
 ## Hi there 👋
-### Lenguajes más usados
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Paola-CansecoPenagos&layout=compact&theme=radical)
 
 # My GitHub Profile
 
