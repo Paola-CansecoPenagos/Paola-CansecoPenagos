@@ -21,17 +21,40 @@
 
 ---
 
-## ✨ Proyectos destacados
+## ⭐ Proyectos destacados
 
-- 🔗 [Chiapas al 100](https://paolapenagos.com/): Vista avanzada para gestión de obras públicas con React + Material UI
-- ⚙️ Automatizaciones con Make/n8n: Procesamiento de correos, validación de datos y subida automática de archivos
-- 🔍 Web scraping con Python para automatizar tareas manuales y ahorrar horas de trabajo operativo
+### 🌐 Web y Sistemas
+
+- **Jaguar Evalúa** – Plataforma institucional de seguimiento a infraestructura estatal; desarrollos enfocados en transparencia y control técnico.
+- **FVNDY** – Plataforma tipo SaaS en Symfony y Supabase. Mejora de UI/UX, migración de base de datos y desarrollo de funcionalidades internas.
+- **FLDCH** – Sistema educativo interno. Creación de vistas dinámicas, consumo de endpoints, y estructura modular para integración ágil.
+
+---
+
+### 🛒 Comercio y productos
+
+- **D'BEEF** – Plataforma de productos cárnicos. Desarrollo front y funcionalidades que permiten a empleados editar, crear y gestionar contenido.
+- **Reina Pepiada** – Sitio gastronómico. Implementación de sistema de traducciones, internacionalización y componentes reutilizables.
+- **BNI Chiapas** – Sitio responsivo para organización empresarial. Optimización de vistas, performance y experiencia móvil/escritorio.
+
+---
+
+### 🧪 QA y DevOps
+
+- **REICHSTAG** – Proyecto de infraestructura. Encargada del aseguramiento de calidad, pruebas funcionales y despliegue de la versión final.
+
+---
+
+### ⚙️ Automatización
+
+- **Automatizaciones con Make/n8n**: Procesamiento de correos, validación de datos y subida automática de archivos
+- **Web scraping** con Python para automatizar tareas manuales y ahorrar horas de trabajo operativo
 
 ---
 
 ## 📬 ¿Quieres contactarme?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/paola-acp/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/paolacansecopenagos)
 - 🌐 [Sitio web / Portafolio](https://paolapenagos.com/)
 - ✉️ paolapenagos.dev@gmail.com
 
